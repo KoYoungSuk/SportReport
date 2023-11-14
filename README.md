@@ -1,8 +1,6 @@
 # SportReport 
 VERSION 1.0 2023-09-11 
 
-Visual Studio Community 2022/.NET Framework 4.8 
-
 Supported Operating System: Windows 7 SP1 64-bit or higher. 
 
 NOTICE: You need Oracle DataBase Server. 
@@ -16,7 +14,7 @@ HOW TO USE SOURCE CODE:
      If You use Linux. Open Terminal. 
   4. Make or Select Cloned Path.
   5. Type command: git clone https://github.com/KoYoungSuk/SportReport.git
-  
+  6. You need to install Visual Studio(2017 or higher, 2022 Required.), .NET Framework 4.8 and Oracle DataBase Server. 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
   # Screenshot 
 
