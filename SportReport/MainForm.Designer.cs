@@ -291,10 +291,10 @@
             this.radioButton3.AutoSize = true;
             this.radioButton3.Location = new System.Drawing.Point(70, 72);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(110, 19);
+            this.radioButton3.Size = new System.Drawing.Size(95, 19);
             this.radioButton3.TabIndex = 2;
             this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "읽기(Read Key) ";
+            this.radioButton3.Text = "읽기(R  Key) ";
             this.radioButton3.UseVisualStyleBackColor = true;
             this.radioButton3.CheckedChanged += new System.EventHandler(this.Read_WriteBtn);
             // 
