@@ -19,7 +19,7 @@ HOW TO USE SOURCE CODE:
   # Screenshot 
 
 
-![image](https://github.com/KoYoungSuk/SportReport/assets/58511486/bdadab90-96ec-4375-9988-4993607599ed)
+![image](https://github.com/KoYoungSuk/SportReport/assets/58511486/3de9565a-2d0e-41c1-a894-ffdab2bd025c)
 
 
  # Calculate Average and Max/Min Calories and Distance. 
