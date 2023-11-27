@@ -30,16 +30,16 @@ namespace SportReport
             {
                 if (Int32.Parse(osBuild) > 22000) //Windows 11 및 Windows 10/Server 2016~2022 구분 
                 {
-                    label = "Your Operating System : Windows 11 " + osName_arr[2] + " Build: " + osBuild;
+                    label = "Your OS : Windows 11 " + osName_arr[2] + " Build: " + osBuild;
                 }
                 else
                 {
-                    label = "Your Operating System : " + osName + " Build: " + osBuild;
+                    label = "Your OS : " + osName + " Build: " + osBuild;
                 }
             }
             else
             {
-                label = "Your Operating System : " + osName + " Build: " + osBuild;
+                label = "Your OS : " + osName + " Build: " + osBuild;
             }
             return label;
         }
@@ -55,7 +55,7 @@ namespace SportReport
         #region["정보 메시지"] 
         public DialogResult informationmessage(String msg)
         {
-            return MessageBox.Show(msg, "MyDiary", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
+            return MessageBox.Show(msg, "SportReport", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
         }
         #endregion
 

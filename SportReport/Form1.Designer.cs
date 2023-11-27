@@ -49,9 +49,9 @@
             this.label1.Font = new System.Drawing.Font("맑은 고딕", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label1.Location = new System.Drawing.Point(27, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(381, 65);
+            this.label1.Size = new System.Drawing.Size(467, 65);
             this.label1.TabIndex = 0;
-            this.label1.Text = "SPORT REPORT";
+            this.label1.Text = "SPORT REPORT 1.1";
             // 
             // groupBox1
             // 
@@ -154,7 +154,7 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(73, 15);
             this.label6.TabIndex = 6;
-            this.label6.Text = "2023-09-11";
+            this.label6.Text = "2023-11-28";
             // 
             // Form1
             // 
@@ -172,7 +172,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Login";
+            this.Text = "Welcome";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

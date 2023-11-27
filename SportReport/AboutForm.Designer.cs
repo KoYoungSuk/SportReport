@@ -51,7 +51,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(138, 15);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Version 1.0 2023-09-11";
+            this.label2.Text = "Version 1.1 2023-11-28";
             // 
             // label3
             // 
@@ -64,11 +64,11 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(249, 142);
+            this.button1.Location = new System.Drawing.Point(141, 153);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(160, 43);
+            this.button1.Size = new System.Drawing.Size(131, 43);
             this.button1.TabIndex = 3;
-            this.button1.Text = "C L O S E ";
+            this.button1.Text = "CLOSE";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -76,7 +76,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(421, 197);
+            this.ClientSize = new System.Drawing.Size(421, 220);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -85,8 +85,9 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "AboutForm";
-            this.Text = "2023-09-11";
+            this.Text = "About SportReport";
             this.ResumeLayout(false);
             this.PerformLayout();
 
