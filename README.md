@@ -1,5 +1,5 @@
 # SportReport 
-VERSION 1.0 2023-09-11 
+VERSION 1.1 2023-11-27 
 
 Supported Operating System: Windows 7 SP1 64-bit or higher. 
 
@@ -19,11 +19,13 @@ HOW TO USE SOURCE CODE:
   # Screenshot 
 
 
-![image](https://github.com/KoYoungSuk/SportReport/assets/58511486/ce99671c-4703-4058-a4db-ff84905f581b)
+![image](https://github.com/KoYoungSuk/SportReport/assets/58511486/bdadab90-96ec-4375-9988-4993607599ed)
 
-Full Screen
 
-![image](https://github.com/KoYoungSuk/SportReport/assets/58511486/47302044-1c04-4b91-9b12-ddb506ceef1f)
+ # Calculate Average and Max/Min Calories and Distance. 
+
+![image](https://github.com/KoYoungSuk/SportReport/assets/58511486/74d45bc0-d9e7-40be-997f-db15e7e9df5b)
+
 
 
 
